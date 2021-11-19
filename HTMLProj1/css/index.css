@@ -1,0 +1,81 @@
+.heading {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.first-para {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.tree-image {
+  display: flex;
+  justify-content: center;
+}
+.heading-two {
+  font-size: large;
+  margin-top: 10px;
+  margin-bottom: 14px;
+}
+.code-style {
+  color: #660000;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.code-style-two {
+  color: #000000;
+  font-weight: bold;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.span-code {
+  color: #660000;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
+.search-list {
+  padding-left: 56px;
+}
+.search-sublist {
+  padding-left: 25px;
+}
+.number {
+  color: #0000ff;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+}
+.table-color {
+  background-color: #cccccc;
+  padding: 4px;
+}
+.table-color-two {
+    padding: 4px;
+  }
+.blank-image {
+  width: 44px;
+  border: 2px ridge gray;
+}
+.table-two {
+  background-color: #dddddd;
+  border-collapse: collapse;
+  color: gray;
+  border: 2px ridge gray;
+  height: 44px;
+}
+.table-two-cell {
+  align-items: center;
+  border: 2px ridge gray;
+  padding-bottom: 0px;
+}
+.balls-table {
+  border: none;
+}
+.number-list {
+  color: #0000ff;
+  font-style: italic;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.list-desc {
+  color: #000000;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-style: normal;
+}
